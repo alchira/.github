@@ -44,8 +44,8 @@
   "vendors": "none",
   "proxymap": [
     {
-      "source": "src",
-      "target": "xrc",
+      "source": "xrc",
+      "target": "src",
       "stylesheet": "styles.css",
       "extensions": {
         "html": [

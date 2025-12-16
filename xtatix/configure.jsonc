@@ -1,8 +1,8 @@
 {
   "proxymap": [
     {
-      "source": "profile",
-      "target": "profsrc",
+      "source": "profsrc",
+      "target": "profile",
       "stylesheet": "styles.css",
       "extensions": {
         "htm": {
