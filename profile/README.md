@@ -44,7 +44,7 @@ XTATIX unifies HTML structure and CSS styling into a single declarative language
 
 > <details>
 > <summary>
-> <b>Why another JS framework, you ask?...</b>
+> <b>Why another framework, you ask?...</b>
 > <br /> Not a Css/Js framework. Actually not even a framewwork.
 > </summary>
 > <hr />
