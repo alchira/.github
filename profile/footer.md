@@ -1,10 +1,10 @@
 <br/>
-
 <p align="center">
-  <b>Xtatix Wiki</b> · © 2025 Vyshnav Prasad
-  <br/> Built with ❤️ for vanilla web
+<b>Xtatix Wiki</b> · © 2025 Vyshnav Prasad
+<br/> Built with ❤️ for vanilla web
 </p>
-<p align="center" class="~$$navbar">
+
+<div align="center" class="~$$navbar">
 <b><p align="center">
     <a href="https://github.com/xtatixone/tutorial">Tutorial</a>
     &nbsp; · &nbsp;
@@ -14,6 +14,6 @@
     &nbsp; · &nbsp;
     <a href="https://github.com/sponsors/yshelldev">Sponsor</a>
 </p></b>
-  </p>
-
-</br>  
+  
+·&nbsp;&nbsp;·&nbsp;&nbsp;· 
+</div>  

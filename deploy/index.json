@@ -67,63 +67,81 @@
       "slug": "documentation",
       "files": [
         {
-          "name": "00-installation.md",
-          "path": "documentation/00-installation.md",
-          "slug": "00-installation",
+          "name": "0.0-extention.md",
+          "path": "documentation/0.0-extention.md",
+          "slug": "0.0-extention",
           "metadata": {}
         },
         {
-          "name": "01-command.md",
-          "path": "documentation/01-command.md",
-          "slug": "01-command",
+          "name": "0.1-command.md",
+          "path": "documentation/0.1-command.md",
+          "slug": "0.1-command",
           "metadata": {}
         },
         {
-          "name": "02-example.md",
-          "path": "documentation/02-example.md",
-          "slug": "02-example",
+          "name": "0.2-directory.md",
+          "path": "documentation/0.2-directory.md",
+          "slug": "0.2-directory",
           "metadata": {}
         },
         {
-          "name": "03-directory.md",
-          "path": "documentation/03-directory.md",
-          "slug": "03-directory",
+          "name": "0.3-libraries.md",
+          "path": "documentation/0.3-libraries.md",
+          "slug": "0.3-libraries",
           "metadata": {}
         },
         {
-          "name": "04-libraries.md",
-          "path": "documentation/04-libraries.md",
-          "slug": "04-libraries",
+          "name": "1.0-hash-loader.md",
+          "path": "documentation/1.0-hash-loader.md",
+          "slug": "1.0-hash-loader",
           "metadata": {}
         },
         {
-          "name": "05-hash-loader.md",
-          "path": "documentation/05-hash-loader.md",
-          "slug": "05-hash-loader",
+          "name": "2.0-class-loader.md",
+          "path": "documentation/2.0-class-loader.md",
+          "slug": "2.0-class-loader",
           "metadata": {}
         },
         {
-          "name": "06-class-loader.md",
-          "path": "documentation/06-class-loader.md",
-          "slug": "06-class-loader",
+          "name": "3.0-composing.md",
+          "path": "documentation/3.0-composing.md",
+          "slug": "3.0-composing",
           "metadata": {}
         },
         {
-          "name": "07-composing.md",
-          "path": "documentation/07-composing.md",
-          "slug": "07-composing",
+          "name": "3.1-varients.md",
+          "path": "documentation/3.1-varients.md",
+          "slug": "3.1-varients",
           "metadata": {}
         },
         {
-          "name": "08-custom-tags.md",
-          "path": "documentation/08-custom-tags.md",
-          "slug": "08-custom-tags",
+          "name": "3.2-wrappers.md",
+          "path": "documentation/3.2-wrappers.md",
+          "slug": "3.2-wrappers",
           "metadata": {}
         },
         {
-          "name": "09-appendix.md",
-          "path": "documentation/09-appendix.md",
-          "slug": "09-appendix",
+          "name": "4.0-custom-tags.md",
+          "path": "documentation/4.0-custom-tags.md",
+          "slug": "4.0-custom-tags",
+          "metadata": {}
+        },
+        {
+          "name": "5.0-depedancy.md",
+          "path": "documentation/5.0-depedancy.md",
+          "slug": "5.0-depedancy",
+          "metadata": {}
+        },
+        {
+          "name": "6.0-appendix.md",
+          "path": "documentation/6.0-appendix.md",
+          "slug": "6.0-appendix",
+          "metadata": {}
+        },
+        {
+          "name": "styles.css",
+          "path": "documentation/styles.css",
+          "slug": "styles",
           "metadata": {}
         }
       ],

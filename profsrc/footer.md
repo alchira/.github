@@ -1,9 +1,9 @@
 <br/>
-
 <p align="center">
-  <b>Xtatix Wiki</b> · © 2025 Vyshnav Prasad
-  <br/> Built with ❤️ for vanilla web
+<b>Xtatix Wiki</b> · © 2025 Vyshnav Prasad
+<br/> Built with ❤️ for vanilla web
 </p>
-<p align="center" class="&$$navbar"></p>
 
-</br>
+<div align="center" class="&$$navbar">
+·&nbsp;&nbsp;·&nbsp;&nbsp;· 
+</div>
