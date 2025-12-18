@@ -11,7 +11,7 @@
   
 </div>
 
-![Logo](../assets/banner.png)
+![Logo](./assets/banner.png)
 
 
 XTATIX unifies HTML structure and CSS styling into a single declarative language. Write responsive layouts in one coherent syntax, compiled to optimized vanilla web code at build time.
@@ -176,4 +176,4 @@ XTATIX unifies HTML structure and CSS styling into a single declarative language
 **Details:** Visual composition workspace with cross-project templates.
 
   </details>
-    
+  
