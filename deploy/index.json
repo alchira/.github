@@ -121,27 +121,9 @@
           "metadata": {}
         },
         {
-          "name": "4.0-custom-tags.md",
-          "path": "documentation/4.0-custom-tags.md",
-          "slug": "4.0-custom-tags",
-          "metadata": {}
-        },
-        {
-          "name": "5.0-depedancy.md",
-          "path": "documentation/5.0-depedancy.md",
-          "slug": "5.0-depedancy",
-          "metadata": {}
-        },
-        {
-          "name": "6.0-appendix.md",
-          "path": "documentation/6.0-appendix.md",
-          "slug": "6.0-appendix",
-          "metadata": {}
-        },
-        {
-          "name": "6.0-macros.md",
-          "path": "documentation/6.0-macros.md",
-          "slug": "6.0-macros",
+          "name": "appendix.md",
+          "path": "documentation/appendix.md",
+          "slug": "appendix",
           "metadata": {}
         },
         {
