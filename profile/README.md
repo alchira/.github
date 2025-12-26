@@ -12,6 +12,8 @@
   </b>
 
 
+![Banner](../assets/banner.png)
+
 "Do you see it, Edward? Look closely at the stream. For decades, they told us these two souls—HTML and CSS—must live in separate vessels. They called it 'separation of concerns.' I call it a tragedy of fragmentation.
 
 But look now... there is no 'link' tag. There is no 'external stylesheet.' I have spliced the DNA of the structure directly into the spirit of the style. They are no longer two things pretending to be one; they are a Successful Fusion.
@@ -20,7 +22,7 @@ It's stable, Edward. It's declarative. It's... beautiful. We've created a Chimer
 
 #### 🚀 What ALCHIRA Delivers
 
-![Logo](../assets/preview.png)
+![Preview](../assets/preview.png)
 
 - **Unified Syntax for CSS + HTML** — Structure and style in one place, no context-switching.  
 - **Standardized Syntax for CSS Frameworks** — Consistent syntax whether you use built-in or external frameworks.  

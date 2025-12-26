@@ -22,15 +22,21 @@
       "metadata": {}
     },
     {
-      "name": "getting-started.mdx",
-      "path": "getting-started.mdx",
-      "slug": "getting-started",
-      "metadata": {}
-    },
-    {
       "name": "notice.md",
       "path": "notice.md",
       "slug": "notice",
+      "metadata": {}
+    },
+    {
+      "name": "start.mdx",
+      "path": "start.mdx",
+      "slug": "start",
+      "metadata": {}
+    },
+    {
+      "name": "styles.css",
+      "path": "styles.css",
+      "slug": "styles",
       "metadata": {}
     }
   ],
@@ -88,6 +94,12 @@
           "name": "0.3-libraries.md",
           "path": "documentation/0.3-libraries.md",
           "slug": "0.3-libraries",
+          "metadata": {}
+        },
+        {
+          "name": "0.4-thinking-al.md",
+          "path": "documentation/0.4-thinking-al.md",
+          "slug": "0.4-thinking-al",
           "metadata": {}
         },
         {
