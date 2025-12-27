@@ -55,6 +55,7 @@ It's stable, Edward. It's declarative. It's... beautiful. We've created a Chimer
 
 ### ✅ Available Now
 
+
 <details>
 
 <summary><b>🎁 Class Loader <span class="text-muted">(Free)</span></b><br/>Inline cascade control, component class composition, variants</summary>
@@ -65,12 +66,13 @@ It's stable, Edward. It's declarative. It's... beautiful. We've created a Chimer
 
 </details>
 
-<details class="&feature$$class-loader"></details>
 
 ---
 
 ### ⏳ Next Milestone ($200)
+
 > **0% → $200**  
+
 
 <details>
 
@@ -87,6 +89,7 @@ It's stable, Edward. It's declarative. It's... beautiful. We've created a Chimer
 ---
 
 ### 🔒 Future Unlocks
+
 
 <details>
 
