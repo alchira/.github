@@ -1,39 +1,59 @@
-<div class="~$$navbar">
-<b><p align="center">
-    <a href="https://github.com/alchira/tutorial">Tutorial</a>
-    &nbsp; · &nbsp;
-    <a href="https://github.com/alchira/package/wiki">Documentation</a>
-    &nbsp; · &nbsp;
-    <a href="https://github.com/orgs/alchira/discussions">Discussions</a>
-    &nbsp; · &nbsp;
-    <a href="https://github.com/sponsors/yshelldev">Sponsor</a>
-</p></b>
-  
-</div>
+---
+title: Getting Started
+---
 
-![Logo](./assets/banner.png)
+## Node Package
 
+- Alchira is distributed via **npm**.
+- Custom flavors created by independent developers are also published on npm.
+- You can install an existing flavor for your project, or create a personal flavor and reuse it across projects.
+- To start your own flavor, use the scaffold template: https://github.com/alchira/scaffold
 
-ALCHIRA unifies HTML structure and CSS styling into a single declarative language. Write responsive layouts in one coherent syntax, compiled to optimized vanilla web code at build time.
+### Core runtime (alchira)
 
-#### ⚙️ Core Technology
+- **Package:** [alchira](https://www.npmjs.com/package/alchira)
+- Installs the appropriate core binary for your OS.
+- Provides the CLI used to orchestrate flavors and run builds.
 
-- **Built in Go (Golang)** — Provides a fast, stable foundation for high-performance processing.
-- **Compile-Time Preprocessor** — Converts the declarative ALCHIRA syntax directly to vanilla HTML/CSS at build time, ensuring zero runtime overhead.
+```bash
+# Local Installation
+npm install -g alchira
+# Local Command Run
+alchira {command}
+al {command}
 
-#### 🚀 What ALCHIRA Delivers
+# Global Installation
+npm install --save-dev alchira
+# Global Command Run
+npx alchira {command}
+npx al {command}
+```
 
-- **Unified Syntax for CSS + HTML** — Structure and style in one place, no context-switching.  
-- **Standardized Syntax for CSS Frameworks** — Consistent syntax whether you use built-in or external frameworks.  
-- **Component‑First Design** — Scoped composition without JavaScript framework overhead.  
-- **Designer‑Friendly Workflow** — Visual-first authoring that compiles to clean production code.  
-- **Personalized Flavors** — Native support for CSS framework variants and custom styling systems.  
-- **Scoped Classes by Default** — Automatic isolation for predictable, conflict-free styling.  
-- **Compile‑Time Unique ID Hashing** — Locally unique identifiers for precise scoping.  
-- **Inline Cascade Control** — Fine-grained style override control directly in markup.  
-- **Adaptive CSS Framework** — A stylesheet system that scales and evolves alongside your project as it grows.  
-- **Multi‑Mode Stylesheet Generation** — Generate modular or unified stylesheets based on your build.  
-- **Live Component Preview** — Isolated component composition with real-time updates.  
-- **Creative Toolbox Philosophy** — Not a framework, but a system that flexes around your workflow.
+### Flavored Template (@alchira/scaffold)
+
+- **Link:** [@alchira/scaffold](https://www.npmjs.com/package/@alchira/scaffold)
+- [alchira](#unflavoured-alchira) will be installed along with flavor and all the commands will work the same manner.
+- To initialize flavour run
+
+```bash
+# Local Initialization
+npx al init {flavor-package-name}
+
+# Global Initialization
+al init {flavor-package-name}
+```
+
+## Editor extension
+
+- **VS Code:** [Marketplace](https://marketplace.visualstudio.com/items?itemName=yshelldev.alchira)
+- **Open VSX:** [yshelldev.alchira-client](https://open-vsx.org/extension/yshelldev/alchira-client)
+- Adds full language support and extra tooling for Alchira configured projects.
+- Bundles an Alchira core, so no separate install is required for small workflows.
+- Plug‑and‑play setup, ideal for trying Alchira or for small projects.
+
+![Preview](./assets/preview.png)
 
 ---
+
+> - **Continue with tutorial repo: `git clone https://github.com/alchira/tutorial.git`**  
+>   *Tutorial repo contains the same documentation in a more interactive manner.*

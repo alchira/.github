@@ -1,78 +1,72 @@
 {
-  "name": "documentation",
-  "path": "documentation",
-  "slug": "documentation",
+  "name": "guide",
+  "path": "guide",
+  "slug": "guide",
   "files": [
     {
       "name": "0.0-extention.md",
-      "path": "documentation/0.0-extention.md",
+      "path": "guide/0.0-extention.md",
       "slug": "0.0-extention",
       "metadata": {}
     },
     {
       "name": "0.1-commands.md",
-      "path": "documentation/0.1-commands.md",
+      "path": "guide/0.1-commands.md",
       "slug": "0.1-commands",
       "metadata": {}
     },
     {
+      "name": "0.1-thinking-al.md",
+      "path": "guide/0.1-thinking-al.md",
+      "slug": "0.1-thinking-al",
+      "metadata": {}
+    },
+    {
       "name": "0.2-directory.md",
-      "path": "documentation/0.2-directory.md",
+      "path": "guide/0.2-directory.md",
       "slug": "0.2-directory",
       "metadata": {}
     },
     {
       "name": "0.3-libraries.md",
-      "path": "documentation/0.3-libraries.md",
+      "path": "guide/0.3-libraries.md",
       "slug": "0.3-libraries",
       "metadata": {}
     },
     {
-      "name": "0.4-thinking-al.md",
-      "path": "documentation/0.4-thinking-al.md",
-      "slug": "0.4-thinking-al",
-      "metadata": {}
-    },
-    {
       "name": "1.0-hash-loader.md",
-      "path": "documentation/1.0-hash-loader.md",
+      "path": "guide/1.0-hash-loader.md",
       "slug": "1.0-hash-loader",
       "metadata": {}
     },
     {
       "name": "2.0-class-loader.md",
-      "path": "documentation/2.0-class-loader.md",
+      "path": "guide/2.0-class-loader.md",
       "slug": "2.0-class-loader",
       "metadata": {}
     },
     {
       "name": "3.0-composing.md",
-      "path": "documentation/3.0-composing.md",
+      "path": "guide/3.0-composing.md",
       "slug": "3.0-composing",
       "metadata": {}
     },
     {
       "name": "3.1-varients.md",
-      "path": "documentation/3.1-varients.md",
+      "path": "guide/3.1-varients.md",
       "slug": "3.1-varients",
       "metadata": {}
     },
     {
       "name": "3.2-wrappers.md",
-      "path": "documentation/3.2-wrappers.md",
+      "path": "guide/3.2-wrappers.md",
       "slug": "3.2-wrappers",
       "metadata": {}
     },
     {
       "name": "appendix.md",
-      "path": "documentation/appendix.md",
+      "path": "guide/appendix.md",
       "slug": "appendix",
-      "metadata": {}
-    },
-    {
-      "name": "styles.css",
-      "path": "documentation/styles.css",
-      "slug": "styles",
       "metadata": {}
     }
   ],
