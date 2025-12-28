@@ -10,27 +10,27 @@
       "metadata": {}
     },
     {
-      "name": "0.1-commands.md",
-      "path": "documentation/0.1-commands.md",
-      "slug": "0.1-commands",
-      "metadata": {}
-    },
-    {
       "name": "0.1-thinking-al.md",
       "path": "documentation/0.1-thinking-al.md",
       "slug": "0.1-thinking-al",
       "metadata": {}
     },
     {
-      "name": "0.2-directory.md",
-      "path": "documentation/0.2-directory.md",
-      "slug": "0.2-directory",
+      "name": "0.2-commands.md",
+      "path": "documentation/0.2-commands.md",
+      "slug": "0.2-commands",
       "metadata": {}
     },
     {
-      "name": "0.3-libraries.md",
-      "path": "documentation/0.3-libraries.md",
-      "slug": "0.3-libraries",
+      "name": "0.3-directory.md",
+      "path": "documentation/0.3-directory.md",
+      "slug": "0.3-directory",
+      "metadata": {}
+    },
+    {
+      "name": "0.4-libraries.md",
+      "path": "documentation/0.4-libraries.md",
+      "slug": "0.4-libraries",
       "metadata": {}
     },
     {
@@ -64,9 +64,21 @@
       "metadata": {}
     },
     {
+      "name": "4.0-custom-tags.md",
+      "path": "documentation/4.0-custom-tags.md",
+      "slug": "4.0-custom-tags",
+      "metadata": {}
+    },
+    {
       "name": "appendix.md",
       "path": "documentation/appendix.md",
       "slug": "appendix",
+      "metadata": {}
+    },
+    {
+      "name": "styles.css",
+      "path": "documentation/styles.css",
+      "slug": "styles",
       "metadata": {}
     }
   ],
