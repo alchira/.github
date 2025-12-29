@@ -1,13 +1,13 @@
 
   <b>
     <p align="center">
+      <a href="https://github.com/alchira/package/wiki">Get-Started</a>
+      &nbsp; · &nbsp;
       <a href="https://github.com/alchira/tutorial">Tutorial</a>
       &nbsp; · &nbsp;
-      <a href="https://github.com/alchira/package/wiki">Documentation</a>
+      <a href="https://github.com/sponsors/yshelldev">Sponsor</a>
       &nbsp; · &nbsp;
       <a href="https://github.com/orgs/alchira/discussions">Discussions</a>
-      &nbsp; · &nbsp;
-      <a href="https://github.com/sponsors/yshelldev">Sponsor</a>
     </p>
   </b>
 
@@ -75,7 +75,7 @@ These feature alone gives you the a CSS framework that work along side your proj
 
 
 <!-- Usage -->
-<button class="~demo$button_lL">
+<button class="~demo$button_lM">
   <span> Click Me </span>
 </button>
 ```
@@ -130,7 +130,7 @@ Preserve preset symlinks for reuse while composing classes and loading classes w
 <details>
 
 <summary>
-  <b>Mission 3: 🧩 Hash Loader & CSS Denest</b>
+  <b>Mission 3: 🧩 Scope Control</b>
   <br />
   Unique IDs + destructuring for state composition
 </summary>
@@ -145,7 +145,7 @@ Preserve preset symlinks for reuse while composing classes and loading classes w
 <details>
 
 <summary>
-  <b>Mission 4: 📦 Component Sketchpad</b>
+  <b>Mission 4: 📦 Sketchpad</b>
   <br />
   Live previews
 </summary>
