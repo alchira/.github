@@ -1,7 +1,7 @@
 
   <b>
     <p align="center">
-      <a href="https://github.com/alchira/package/wiki">Get-Started</a>
+      <a href="https://github.com/alchira/package/wiki">Get Started</a>
       &nbsp; · &nbsp;
       <a href="https://github.com/alchira/tutorial">Tutorial</a>
       &nbsp; · &nbsp;
@@ -19,6 +19,24 @@
 But look now... there is no 'link' tag. There is no 'external stylesheet.' I have spliced the DNA of the structure directly into the spirit of the style. They are no longer two things pretending to be one; they are a Successful Fusion.
 
 It's stable, Edward. It's declarative. It's... beautiful. We've created a Chimera that doesn't just bark—it renders."
+
+### Install and Setup
+
+Alchira works independently of frameworks or languages. npm provides convenient distribution (most frontend devs have Node), but functions perfectly in any non-Node codebase.
+
+```bash
+    npm i -g alchira
+```
+
+Alternatively you can still use your preffered package manager(pnpm/yarn/bun).
+
+```bash
+pnpm add -g alchira
+yarn global add alchira
+bun add -g alchira
+```
+
+[**Continue →**](https://github.com/alchira/package/wiki)
 
 #### 🚀 What ALCHIRA Delivers
 
@@ -75,7 +93,7 @@ These feature alone gives you the a CSS framework that work along side your proj
 
 
 <!-- Usage -->
-<button class="~demo$button_lM">
+<button class="~demo$button_kW">
   <span> Click Me </span>
 </button>
 ```
