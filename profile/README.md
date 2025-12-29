@@ -23,10 +23,10 @@ It's stable, Edward. It's declarative. It's... beautiful. We've created a Chimer
 ### Install and Setup
 
 ```bash
-    npm i -g alchira         # If you prefer npm
-    pnpm add -g alchira      # If you prefer pnpm
-    yarn global add alchira  # If you prefer yarn
-    bun add -g alchira       # If you prefer bun
+npm i -g alchira         # If you prefer npm
+pnpm add -g alchira      # If you prefer pnpm
+yarn global add alchira  # If you prefer yarn
+bun add -g alchira       # If you prefer bun
 ```
 
 Alchira works independently of frameworks or languages. Using NPM registry provides convenient distribution (most frontend devs have Node), but functions perfectly in any non-Node codebase.
@@ -35,7 +35,7 @@ Alchira works independently of frameworks or languages. Using NPM registry provi
 
 #### 🚀 What ALCHIRA Delivers
 
-![Preview](../assets/preview.png)
+![Preview](../assets/preview.gif)
 
 - **Unified Syntax for CSS + HTML** — Structure and style in one place, no context-switching.  
 - **Standardized Syntax for CSS Frameworks** — Consistent syntax whether you use built-in or external frameworks.  
@@ -78,20 +78,10 @@ Alchira works independently of frameworks or languages. Using NPM registry provi
 </summary>
 <hr />
 
-**Details:**  
+
 These feature alone gives you the a CSS framework that work along side your project starting from Zero.
 
-**Preview:**
-
-```html
-<!-- Compose -->
-
-
-<!-- Usage -->
-<button class="~demo$button_lp">
-  <span> Click Me </span>
-</button>
-```
+![Preview](../assets/feature/0_essentials.gif)
 
 </details>
 
@@ -107,22 +97,19 @@ These feature alone gives you the a CSS framework that work along side your proj
 <details>
 
 <summary>
-  <b>Mission 1: 📦 Sketchpad</b>
+  <b> Mission 1: 📦 Sketchpad </b>
   <br />
   Sketchpad Instant Previews. Faster Workflows.
 </summary>
 <hr />
 
-Stop guessing and start seeing. Sketchpad brings live previews directly into your editor or external browser. 
+**Stop guessing and start seeing:** Sketchpad brings live previews directly into your editor or external browser.  
+While the built-in toolkit is lean and focused, it is designed to be fully extensible—allowing you to rebuild or customize the interface to suit your specific architectural needs.
 
-While the built-in toolkit is lean and focused, it is designed to be fully extensible—allowing you to rebuild or customize it to suit your specific needs.
+**Tailored to your stack:** Sketchpad comes bundled with your preferred flavor. Unlock additional flavors to unleash the full potential of your development environment and specialized toolsets.  
+With instant server-side updates for every edit, your feedback loop is now instantaneous. Build faster, debug visually, and stay in the flow.
 
-Sketchpad comes bundled with your preferred flavor. Unlock additional flavors to unleash the full potential of your development environment.
-
-With instant server-side updates for every edit. Build faster, debug visually, and stay in the flow.
-
-![Sketchpad Preview](../assets/feature/1_sketchpad.gif)
-![Sketchpad Preview](../assets/feature/1_sketchpad.mp4)
+![Preview](../assets/feature/1_sketchpad.gif)
 
 </details>
 
@@ -135,19 +122,24 @@ With instant server-side updates for every edit. Build faster, debug visually, a
 <details>
 
 <summary>
-  <b>Mission 2: 📜 Chained Wrappers, Hashrules</b>
+  <b>Mission 2: 📜 (Chained Wrappers & Hashrules) + (Denest)</b>
   <br />
   Precise directives + conditional selectors
 </summary>
 <hr />
-**Details:** Composes classes at compile-time with variant extensions. These
-feature alone gives you the a CSS framework that work along side your project
-starting from Zero. Compound selectors with stateful directives and wrappers.
 
-**Preview:** `<div class="btn ~primary ~hover ~lg">Click</div>`
+**Denest:** Destructive Nesting is a dedicated operator designed to keep long-chained selectors organized. It's the ultimate CSS power-up for managing complex UI states without losing code clarity.
+
+**Multilevel Rule Control:** Manage rule states with precision using multilevel wrapping. By centering logic around the symlink, you ensure your styles remain both powerful and predictable.
+
+**Hashrules:** Reuse & Scale Stop repeating yourself. Configure reusable wrapper snippets in `hashrules.jsonc`.
+
+  - **Standardize:** Define snippets in `./alchira/hashrules.jsonc`.
+  - **Sync:** Update a single file to reflect changes across your entire project.
+
+![Preview](../assets/feature/2_hashrules.gif)
 
 </details>
-
 
 
 <details>
@@ -155,25 +147,37 @@ starting from Zero. Compound selectors with stateful directives and wrappers.
 <summary>
   <b>Mission 3: 📚 Libraries</b>
   <br />
-    Create reusable library-style symlinks for quick composition and reuse.
+    Automated Style-Symlinks for Rapid Composition.
 </summary>
 <hr />
-**Details:**  
-Preserve preset symlinks for reuse while composing classes and loading classes with existing symlinks. This unlocks a familiar workflow similar to CSS frameworks and other tooling.
+
+**Centralized CSS Factories:** Bulk-generate class blocks in ./alchira/libraries. Each block is assigned a unique symlink handle, making global styles easy to track, manage, and scale.
+
+**Preprocessor Friendly:** Start with the Essential symlinks bundled with your flavor, or unleash your own preprocessor to generate custom library sets on the fly.
+
+**Deep Architecture:** Support for 6 levels of inheritance allows for highly structured design tokens. Use `@--apply`/`+` to merge these library foundations into final HTML component sketches for advanced state management.
+
+![Preview](../assets/feature/3_libraries.gif)
+
 </details>
 
 
 <details>
 
 <summary>
-  <b>Mission 4: 🧩 Scope Control</b>
+  <b>Mission 4: 🧩 Advanced Scope Control </b>
   <br />
-  Unique IDs + destructuring for state composition
+  Unique IDs, Scoped Classes, and Local Styling.
 </summary>
 <hr />
 
-**Preview:** `~user#avatar ~active` → `.u1234_user_avatar.is_active`  
-**Details:** Compile-time scoped IDs with nested state flattening.
+**Better Organization:** Utilize local file-scoped symlinks to prevent naming collisions. Only export the symlinks required for the task, keeping your internal logic private.
+
+**Collision-Free IDs:** Leverage unique file hashes to generate one-of-a-kind class names and IDs automatically.
+
+**Sketch Compositions:** Effortlessly combine local styles into robust compositions while maintaining strict scope boundaries.
+
+![Preview](../assets/feature/4_scope-ops.gif)
 
 </details>
 
