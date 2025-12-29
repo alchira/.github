@@ -23,13 +23,13 @@ It's stable, Edward. It's declarative. It's... beautiful. We've created a Chimer
 ### Install and Setup
 
 ```bash
-    npm i -g alchira
-    pnpm add -g alchira
-    yarn global add alchira
-    bun add -g alchira
+    npm i -g alchira         # If you prefer npm
+    pnpm add -g alchira      # If you prefer pnpm
+    yarn global add alchira  # If you prefer yarn
+    bun add -g alchira       # If you prefer bun
 ```
 
-Alchira works independently of frameworks or languages. Using NPM regisry provides convenient distribution (most frontend devs have Node), but functions perfectly in any non-Node codebase.
+Alchira works independently of frameworks or languages. Using NPM registry provides convenient distribution (most frontend devs have Node), but functions perfectly in any non-Node codebase.
 
 [**Continue →**](https://github.com/alchira/package/wiki)
 
@@ -88,7 +88,7 @@ These feature alone gives you the a CSS framework that work along side your proj
 
 
 <!-- Usage -->
-<button class="~demo$button_lK">
+<button class="~demo$button_lp">
   <span> Click Me </span>
 </button>
 ```
@@ -107,7 +107,35 @@ These feature alone gives you the a CSS framework that work along side your proj
 <details>
 
 <summary>
-  <b>Mission 1: 📜 Chained Wrappers, Hashrules</b>
+  <b>Mission 1: 📦 Sketchpad</b>
+  <br />
+  Sketchpad Instant Previews. Faster Workflows.
+</summary>
+<hr />
+
+Stop guessing and start seeing. Sketchpad brings live previews directly into your editor or external browser. 
+
+While the built-in toolkit is lean and focused, it is designed to be fully extensible—allowing you to rebuild or customize it to suit your specific needs.
+
+Sketchpad comes bundled with your preferred flavor. Unlock additional flavors to unleash the full potential of your development environment.
+
+With instant server-side updates for every edit. Build faster, debug visually, and stay in the flow.
+
+![Sketchpad Preview](../assets/feature/1_sketchpad.gif)
+![Sketchpad Preview](../assets/feature/1_sketchpad.mp4)
+
+</details>
+
+
+---
+
+### 🔒 Future Unlocks
+
+
+<details>
+
+<summary>
+  <b>Mission 2: 📜 Chained Wrappers, Hashrules</b>
   <br />
   Precise directives + conditional selectors
 </summary>
@@ -122,15 +150,10 @@ starting from Zero. Compound selectors with stateful directives and wrappers.
 
 
 
----
-
-### 🔒 Future Unlocks
-
-
 <details>
 
 <summary>
-  <b>Mission 2: 📚 Libraries</b>
+  <b>Mission 3: 📚 Libraries</b>
   <br />
     Create reusable library-style symlinks for quick composition and reuse.
 </summary>
@@ -143,7 +166,7 @@ Preserve preset symlinks for reuse while composing classes and loading classes w
 <details>
 
 <summary>
-  <b>Mission 3: 🧩 Scope Control</b>
+  <b>Mission 4: 🧩 Scope Control</b>
   <br />
   Unique IDs + destructuring for state composition
 </summary>
@@ -158,29 +181,20 @@ Preserve preset symlinks for reuse while composing classes and loading classes w
 <details>
 
 <summary>
-  <b>Mission 4: 📦 Sketchpad</b>
-  <br />
-  Live previews
-</summary>
-<hr />
-
-**Preview:** Drag/drop components with real-time rendering
-**Details:** Visual composition workspace with cross-project templates.
-
-</details>
-
-
-<details>
-
-<summary>
   <b>Mission 5: 🍧 Flavours </b>
   <br />
-  Customize personalized CSS frameworks & shareable flavours
+  Build & share custom CSS frameworks on Alchira.
 </summary>
 <hr />
 
-**Preview:** `~tailwind ~bootstrap ~custom-brand`
-**Details:** Unified rulesets for frameworks built on ALCHIRA. Create/share personalized CSS ecosystems.
+Unified rulesets for team-enforced styling systems. Create immutable libraries, extend Sketchpad features, and ship config blueprints.
+
+- **Team Standards** → Enforce consistent practices across projects  
+- **Immutable Libraries** → Lock core styles, extend safely  
+- **Personalize Sketchpad** → Build custom UIs/workflows from your preferred tools  
+- **Config Blueprints** → One-click project kickstarts  
+
+[**Spin your flavor →**](https://github.com/alchira/scaffold)
 
 </details>
 
