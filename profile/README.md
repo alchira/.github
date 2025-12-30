@@ -50,22 +50,32 @@ bun add -g alchira       # If you prefer bun
 - **Creative Toolbox Philosophy** — Not a framework, but a system that flexes around your workflow.
 
 
-## Features
+## 🚀 Missions & Feature Unlocks
 
-> [!NOTE]  
-> ### 💖 [**Sponsor Project & Support Development**](https://github.com/sponsors/yshelldev)
-> **Alchira is 100% bootstrapped.** 
-> In the preview period . Your sponsorship unlocks new features for the entire community as milestones are reached.
+Alchira is currently in a high-intensity stabilization phase.  
+Before we initiate the next mission, we are refining the core engine.  
+Our current priority is absolute stability: hunting down edge cases and hardening existing features to ensure a rock-solid foundation.
+
+> [!NOTE]
+>  
+> ### **The Alchira Development Lifecycle**
 > 
-> 🌱 [**Become Supporter: $5**](https://github.com/sponsors/yshelldev)  
-> 🚀 [**Become Believer: $20**](https://github.com/sponsors/yshelldev)  
-> 🔥 [**Become Backer: $80**](https://github.com/sponsors/yshelldev)  
-> 💎 [**Become Patron: $250**](https://github.com/sponsors/yshelldev)  
-> ✨ [**Custom Amount: $$$**](https://github.com/sponsors/yshelldev)
+> | Phase | Status | Activity |
+> | --- | --- | --- |
+> | **1. Forge Stabilization** | 🛠️ **Active** | Squashing bugs and hardening the *latest* features. No new features are added. The next Milestone is hidden until the "Forge" is cold. |
+> | **2. Target Declaration** | 📢 **Announced** | Once all issues are cleared, the **Next Funding Target** is revealed. This is the financial goal required to "Transmute" the next feature set. |
+> | **3. The Funding Cycle** | ⏳ **Waiting** | The community contributes. Development is on standby for the new features, though maintenance of the current stable version continues. |
+> | **4. Feature Unleash** | 🔓 **Unlocked** | **Target Met.** The next mission features are released into the **Insider Cycle** (Alpha). Development on the new set begins immediately. |
+> | **5. The Insider Loop** | 🧪 **Priority** | Funders from the *previous* funding cycle get exclusive access to the unstable build. Their issues and feedback are given **Top Priority** in the repo. |
+> | **6. Public Shift** | 🌍 **Public** | Once the Insiders have battle-tested the features, they move to the **Public Stabilization Cycle** (Beta) for the general community. |
+> 
+> ### 💖 [**Fuel the Mission: Sponsor on GitHub**](https://github.com/sponsors/yshelldev)
+> **Alchira is a 100% bootstrapped project.**  
+> In the preview period. Your support unlocks amazing new capabilities for everyone! 🎉
 
 ---
 
-### ✅ Available 
+### 🌍 Public Beta 
 
 
 <details>
@@ -85,19 +95,19 @@ These feature alone gives you the a CSS framework that work along side your proj
 
 </details>
 
-<img src="../assets/button.png" alt="Description" height="32rem">
+
+> [!IMPORTANT]
+> **Next Mission Readiness:** The next mission remains **Locked** until all open issues in the current Forge Stabilization phase have been resolved and the funding target is met.
 
 ---
 
-### ⏳ Next Mission: 
-
-> Unlocks once all previous issues have been resolved.
+### 🔒 Future Unlocks
 
 
 <details>
 
 <summary>
-  <b> Mission 1: 📦 Sketchpad </b>
+  <b> Mission 1: 🖼 Sketchpad </b>
   <br />
   Sketchpad Instant Previews. Faster Workflows.
 </summary>
@@ -112,11 +122,6 @@ With instant server-side updates for every edit, your feedback loop is now insta
 ![Preview](../assets/feature/1_sketchpad.gif)
 
 </details>
-
-
----
-
-### 🔒 Future Unlocks
 
 
 <details>
