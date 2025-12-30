@@ -197,27 +197,7 @@ With instant server-side updates for every edit, your feedback loop is now insta
 
 </details>
 
-
-<details>
-
-<summary>
-  <b>Mission 5: 🍧 Flavours </b>
-  <br />
-  Build & share custom CSS frameworks on Alchira.
-</summary>
-<hr />
-
-Unified rulesets for team-enforced styling systems. Create immutable libraries, extend Sketchpad features, and ship config blueprints.
-
-- **Team Standards** → Enforce consistent practices across projects  
-- **Immutable Libraries** → Lock core styles, extend safely  
-- **Personalize Sketchpad** → Build custom UIs/workflows from your preferred tools  
-- **Config Blueprints** → One-click project kickstarts  
-
-[**Spin your flavor →**](https://github.com/alchira/scaffold)
-
-</details>
-
+feature$$5
 
 ---
 
