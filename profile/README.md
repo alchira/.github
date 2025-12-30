@@ -56,22 +56,33 @@ Alchira is currently in a high-intensity stabilization phase.
 Before we initiate the next mission, we are refining the core engine.  
 Our current priority is absolute stability: hunting down edge cases and hardening existing features to ensure a rock-solid foundation.
 
+### 💖 [**Fuel the Mission: Sponsor on GitHub**](https://github.com/sponsors/yshelldev)
+**Alchira is a 100% bootstrapped project.**  
+During the preview period, your support unlocks amazing new capabilities for everyone! 🎉
+
 > [!NOTE]
->  
-> ### **The Alchira Development Lifecycle**
+>
+> <details>
+> <summary>
+> <b>View the Development Lifecycle</b>
+> <br />
+> We use a "Cold Forge" protocol: no new features are added until the current ones are stable.  
+>
+> New capabilities are unlocked by community funding. 
+> 
+> _(Expand to know more about feature release lyfecycle.)_
+> </summary>
 > 
 > | Phase | Status | Activity |
 > | --- | --- | --- |
-> | **1. Forge Stabilization** | 🛠️ **Active** | Squashing bugs and hardening the *latest* features. No new features are added. The next Milestone is hidden until the "Forge" is cold. |
-> | **2. Target Declaration** | 📢 **Announced** | Once all issues are cleared, the **Next Funding Target** is revealed. This is the financial goal required to "Transmute" the next feature set. |
-> | **3. The Funding Cycle** | ⏳ **Waiting** | The community contributes. Development is on standby for the new features, though maintenance of the current stable version continues. |
-> | **4. Feature Unleash** | 🔓 **Unlocked** | **Target Met.** The next mission features are released into the **Insider Cycle** (Alpha). Development on the new set begins immediately. |
-> | **5. The Insider Loop** | 🧪 **Priority** | Funders from the *previous* funding cycle get exclusive access to the unstable build. Their issues and feedback are given **Top Priority** in the repo. |
-> | **6. Public Shift** | 🌍 **Public** | Once the Insiders have battle-tested the features, they move to the **Public Stabilization Cycle** (Beta) for the general community. |
+> | **1. Forge Stabilization** | 🛠️ **Active** | Hardening current features. No new additions allowed. |
+> | **2. Target Declaration** | 📢 **Announced** | Bugs are cleared. The next **Funding Target** is revealed. |
+> | **3. The Funding Cycle** | ⏳ **Waiting** | The community contributes to reach the financial milestone. |
+> | **4. Feature Unleash** | 🔓 **Unlocked** | Target met. New features enter the **Insider Alpha**. |
+> | **5. The Insider Loop** | 🧪 **Priority** | Previous funders get first access and priority support. |
+> | **6. Public Shift** | 🌍 **Public** | Features move to a Public Beta for everyone. |
 > 
-> ### 💖 [**Fuel the Mission: Sponsor on GitHub**](https://github.com/sponsors/yshelldev)
-> **Alchira is a 100% bootstrapped project.**  
-> In the preview period. Your support unlocks amazing new capabilities for everyone! 🎉
+> </details>
 
 ---
 
