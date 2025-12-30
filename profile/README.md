@@ -64,7 +64,7 @@ During the preview period, your support unlocks amazing new capabilities for eve
 >
 > <details>
 > <summary>
-> <b>View the Development Lifecycle</b>
+> <b>Development Lifecycle</b>
 > <br />
 > We use a "Cold Forge" protocol: no new features are added until the current ones are stable.  
 >
@@ -108,7 +108,7 @@ These feature alone gives you the a CSS framework that work along side your proj
 
 
 > [!IMPORTANT]
-> **Next Mission Readiness:** The next mission remains **Locked** until all open issues in the current Forge Stabilization phase have been resolved and the funding target is met.
+> The next mission remains **Locked** until all open issues in the current Forge Stabilization phase have been resolved and the funding target is met.
 
 ---
 
