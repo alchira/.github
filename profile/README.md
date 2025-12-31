@@ -99,7 +99,13 @@ During the preview period, your support unlocks amazing new capabilities for eve
 </summary>
 <hr />
 
-These feature alone gives you the a CSS framework that work along side your project starting from Zero.
+These features alone provide a CSS framework that grows alongside your project from Zero. This "Successful Fusion" is achieved through the following core pillars:
+
+- **Composing & Nesting:** Define UI as a unified structural topology.
+- **Inline Cascade Control:** Master the cascade with `~`, `+`, and `=` operators.
+- **Variants:** Manage state and regional logic directly within the declaration.
+- **1st Order Wrappers:** Responsive logic (@#Mmd / @#Cmd) integrated as primary intent.
+- **Dependent Tracking:** Automated structural awareness to prevent stylesheet bloat.
 
 ![Preview](../assets/feature/0_essentials.gif)
 
@@ -137,9 +143,9 @@ With instant server-side updates for every edit, your feedback loop is now insta
 <details>
 
 <summary>
-  <b>Mission 2: 📜 (Chained Wrappers & Hashrules) + (Denest)</b>
+  <b>Mission 2: 📜 Chained Wrappers & Hashrules + Denest</b>
   <br />
-  Precise directives + conditional selectors
+  Precise directives + conditional selectors + Better selector organizaion
 </summary>
 <hr />
 
