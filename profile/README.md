@@ -117,7 +117,9 @@ These features alone provide a CSS framework that grows alongside your project f
 
 ---
 
-### 🔒 Future Unlocks
+### 🔒 Future Unlocks 
+
+> _Expand accordian to see feature previews._
 
 
 <details>
