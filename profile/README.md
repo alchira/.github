@@ -18,11 +18,11 @@
 #### Level 1: Want to use Utility classes?
 
 Use ~ to trigger class loading in place:
-
+```html
 <div class="~flex ~flex-col">
   Click me
 </div>
-
+```
 Provided that these classes are either available in libraries, or defined atlease once.
 
 
@@ -82,7 +82,7 @@ Extend using attribute selectors like native CSS.
   Click me
 </div>
 ```
-The exposed variables will assit in providing the contract by existing classes.
+The exposed variables will assit in providing the contract by existing classes. 
 
 
 #### Level 7: Want to wrap you class in other selectors and Queries?
@@ -109,7 +109,7 @@ will be compiled to
 
 You can even chain multiple queries with:
     `{Query}&{.parent-class}&{[varient-state]}&="..."`
-
+This replaces writing media queries and state control like theme-switching.
 
 #### Level 8: Need cascade control?
 - `~` for utilities (basic)
