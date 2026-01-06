@@ -12,6 +12,8 @@
   </b>
 
 
+---
+
 > [!Note]
 > ### What is a WebUI Workbench
 > A WebUI Workbench is an editor-native environment for building, previewing, and evolving web UI systems without framework or runtime lock-in. 
@@ -20,6 +22,7 @@
 >
 > It produces standard HTML and CSS, works with any stack, and scales from stitched one-off pages to full design systems.  
 >
+> 80%
 ---
 
 > Some tags starts with `\<` as escape charector for tags, in the following examples.
