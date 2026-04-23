@@ -6,8 +6,6 @@
       &nbsp; · &nbsp;
       <a href="https://github.com/alchira/tutorial">Tutorial</a>
       &nbsp; · &nbsp;
-      <a href="https://github.com/sponsors/yshelldev">Support</a>
-      &nbsp; · &nbsp;
       <a href="https://github.com/orgs/alchira/discussions">Discussions</a>
     </p>
   </b>
@@ -22,13 +20,16 @@ Alchira is a **compile-time WebUI workbench** that lets you design, preview, and
 It produces **plain HTML and CSS** — no client runtime, no JS API, no magic in production.
 
 What it changes is *how* you author UI.
+![preview](https://github.com/alchira/.github/blob/main/assets/preview.gif?raw=true)
+![0_essentials](https://github.com/alchira/.github/blob/main/assets/feature/0_essentials.gif?raw=true)
+![0_essentials](https://github.com/alchira/.github/blob/main/assets/feature/1_sketchpad.gif?raw=true)
+![2_hashrules](https://github.com/alchira/.github/blob/main/assets/feature/2_hashrules.gif?raw=true)
+![3_libraries](https://github.com/alchira/.github/blob/main/assets/feature/3_libraries.gif?raw=true)
+![4_scope-ops](https://github.com/alchira/.github/blob/main/assets/feature/4_scope-ops.gif?raw=true)
 
 ---
 
 ### Why Alchira exists
-
-Most UI tools optimize for **speed of creation**.  
-They do *not* optimize for **safety of change**.
 
 As projects grow, CSS tends to break down:
 
@@ -49,14 +50,14 @@ If you’re happy shipping throwaway styles fast, you probably don’t need it.
 
 ### What kind of tool is this?
 
-Alchira is **not**:
+**Not**:
 
 * a CSS framework
 * a JS framework
 * a runtime library
 * a replacement for React, Vue, or Svelte
 
-Alchira **is**:
+**But**:
 
 * a **language layer** that unifies structure and styling
 * a **Workbench** for designing UI systems safely
@@ -253,11 +254,11 @@ Multiple declarations will be used for establish the organizaion of classes in w
 Use `<sketch> </sketch>` tag
 ```html
 <!-- # will get replaced by a unique hash -->
-<div id="_8j_8o_id" class="_8j_8o_class">...</div>
+<div id="_8j_8h_id" class="_8j_8h_class">...</div>
 <script>
   // Reuse the hash id's by prefixing with "\#"
-  const id = "_8j_8o_id"
-  const classname = "_8j_8o_class"
+  const id = "_8j_8h_id"
+  const classname = "_8j_8h_class"
 </script>
 ```
 *Needs configs to be properly configured*
